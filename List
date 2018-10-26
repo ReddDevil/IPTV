@@ -1,30 +1,385 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Animation
-http://185.95.109.145:8000/play/9zrx
-#EXTINF:-1,Sky Witness
-http://185.95.109.145:8000/play/9zsc
-#EXTINF:-1,Sky Drama
-http://185.95.109.145:8000/play/9zrw
-#EXTINF:-1,Sky Superhero
-http://185.95.109.145:8000/play/9zs1
-#EXTINF:-1,Sky Thriller
-http://185.95.109.145:8000/play/9zs0
-#EXTINF:-1,Halloween
-http://185.95.109.145:8000/play/9zrz
-#EXTINF:-1,Sky Action
-http://185.95.109.145:8000/play/9zrt
-#EXTINF:-1,Sky Sports PL
-http://185.95.109.145:8000/play/9zse
-#EXTINF:-1,Sky Comedy
-http://185.95.109.145:8000/play/9zrv
-#EXTINF:-1,Sky Select
-http://185.95.109.145:8000/play/9zry
-#EXTINF:-1,Sky Disney
-http://185.95.109.145:8000/play/9zru
-#EXTINF:-1,Sky Premiere
-http://185.95.109.145:8000/play/9zs2
-
+#EXTINF:-1,USA HBO Signature
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3711.ts
+#EXTINF:-1,USA HBO
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3710.ts
+#EXTINF:-1,USA HBO FAMILY
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3709.ts
+#EXTINF:-1,USA HBO ZONE
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3708.ts
+#EXTINF:-1,USA A&E
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3704.ts
+#EXTINF:-1,ABC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3719.ts
+#EXTINF:-1,NBCSN
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3723.ts
+#EXTINF:-1,USA ABC NEWS
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3720.ts
+#EXTINF:-1,USA CBS
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3721.ts
+#EXTINF:-1,USA NBC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3724.ts
+#EXTINF:-1,USA AFN Movie
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3696.ts
+#EXTINF:-1,USA CineMax
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3699.ts
+#EXTINF:-1,USA Bloomberg
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3694.ts
+#EXTINF:-1,USA Bravo
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3693.ts
+#EXTINF:-1,USA CNBC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3722.ts
+#EXTINF:-1,USA CW
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3706.ts
+#EXTINF:-1,USA ESPN
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3692.ts
+#EXTINF:-1,USA ESPN 2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3691.ts
+#EXTINF:-1,USA FOX
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3718.ts
+#EXTINF:-1,USA Fox News
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3717.ts
+#EXTINF:-1,USA FoxSports 1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3716.ts
+#EXTINF:-1,USA Fox Sports 2 HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3715.ts
+#EXTINF:-1,USA FX
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3697.ts
+#EXTINF:-1,USA Hallmark
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3698.ts
+#EXTINF:-1,USA HISTORY
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3686.ts
+#EXTINF:-1,USA MTV Live
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3687.ts
+#EXTINF:-1,USA NBA TV
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3690.ts
+#EXTINF:-1,USA NFL NETWORK
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3689.ts
+#EXTINF:-1,USA NHL NETWORK
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3688.ts
+#EXTINF:-1,USA Showtime
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3714.ts
+#EXTINF:-1,USA SHOWTIME SHOWCASE
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3713.ts
+#EXTINF:-1,USA STARZ CINEMA
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3703.ts
+#EXTINF:-1,USA STARZ COMEDY
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3702.ts
+#EXTINF:-1,USA NETWORK
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3705.ts
+#EXTINF:-1,USA STARZ ENCORE
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3701.ts
+#EXTINF:-1,USA SYFY
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3700.ts
+#EXTINF:-1,USA WWEHD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3695.ts
+#EXTINF:-1,[USA] Bravo US
+http://k2442.com:8000/live/gg333/gg333/207.ts
+#EXTINF:-1,[USA] CHCH HD
+http://k2442.com:8000/live/gg333/gg333/1974.ts
+#EXTINF:-1,[USA] CNN
+http://k2442.com:8000/live/gg333/gg333/322.ts
+#EXTINF:-1,[USA] Cartoon Network HD
+http://k2442.com:8000/live/gg333/gg333/1898.ts
+#EXTINF:-1,[USA] E! Entertainment US
+http://k2442.com:8000/live/gg333/gg333/1962.ts
+#EXTINF:-1,[USA] ESPN 2
+http://k2442.com:8000/live/gg333/gg333/2003.ts
+#EXTINF:-1,[USA] ESPN U
+http://k2442.com:8000/live/gg333/gg333/2002.ts
+#EXTINF:-1,[USA] Fox HD
+http://k2442.com:8000/live/gg333/gg333/1905.ts
+#EXTINF:-1,[USA] Fox Sport 1 HD
+http://k2442.com:8000/live/gg333/gg333/1089.ts
+#EXTINF:-1,[USA] HBO Signature
+http://k2442.com:8000/live/gg333/gg333/1976.ts
+#EXTINF:-1,[USA] HBO US
+http://k2442.com:8000/live/gg333/gg333/1975.ts
+#EXTINF:-1,[USA] HBO Zone
+http://k2442.com:8000/live/gg333/gg333/1961.ts
+#EXTINF:-1,[USA] HGTV
+http://k2442.com:8000/live/gg333/gg333/2014.ts
+#EXTINF:-1,[USA] MSNBC
+http://k2442.com:8000/live/gg333/gg333/2258.ts
+#EXTINF:-1,[USA] NBA TV HD
+http://k2442.com:8000/live/gg333/gg333/1903.ts
+#EXTINF:-1,[USA] NBC Golf
+http://k2442.com:8000/live/gg333/gg333/2042.ts
+#EXTINF:-1,[USA] NFL Network HD
+http://k2442.com:8000/live/gg333/gg333/1908.ts
+#EXTINF:-1,[USA] NHL NETWORK
+http://k2442.com:8000/live/gg333/gg333/1907.ts
+#EXTINF:-1,[USA] Nicktoons
+http://k2442.com:8000/live/gg333/gg333/1904.ts
+#EXTINF:-1,[USA] SPIKE HD
+http://k2442.com:8000/live/gg333/gg333/1909.ts
+#EXTINF:-1,[USA] Showtime HD
+http://k2442.com:8000/live/gg333/gg333/1901.ts
+#EXTINF:-1,[USA] SyFy HD
+http://k2442.com:8000/live/gg333/gg333/1910.ts
+#EXTINF:-1,[USA] Tennis Channel HD
+http://k2442.com:8000/live/gg333/gg333/1992.ts
+#EXTINF:-1,[USA] USA Network
+http://k2442.com:8000/live/gg333/gg333/1911.ts
+#EXTINF:-1,USA: Deutsche Welle
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/12055
+#EXTINF:-1,USA: Juce tv
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/12064
+#EXTINF:-1,USA: Smile of a Child
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/12054
+#EXTINF:-1,USA: TBN salsa
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/12053
+#EXTINF:-1,USA: Beach TV - 30A
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32389
+#EXTINF:-1,USA: Beach TV - Panama City
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32388
+#EXTINF:-1,USA: Beach TV - Pawleys Island
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32387
+#EXTINF:-1,USA: Bowie TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32386
+#EXTINF:-1,USA: Buffalo TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32385
+#EXTINF:-1,USA: BYUtv
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32384
+#EXTINF:-1,USA: C-SPAN
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32383
+#EXTINF:-1,USA: C-SPAN 2
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32382
+#EXTINF:-1,USA: C-SPAN 3
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32381
+#EXTINF:-1,USA: California Music Channel
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32380
+#EXTINF:-1,USA: CBS 4 News (Indianapolis)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32330
+#EXTINF:-1,USA: CBS 5 News (Colorado)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32333
+#EXTINF:-1,USA: CBS News
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32379
+#EXTINF:-1,USA: Channel 7
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32378
+#EXTINF:-1,USA: Classic Arts Showcase
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32377
+#EXTINF:-1,USA: Comet TV (Geo)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32376
+#EXTINF:-1,USA: District Knowledge Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32374
+#EXTINF:-1,USA: District of Columbia Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32375
+#EXTINF:-1,USA: family guy
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32392
+#EXTINF:-1,USA: Fox News Channel (No Audio)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32373
+#EXTINF:-1,USA: Free Speech TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32372
+#EXTINF:-1,USA: Garland TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32371
+#EXTINF:-1,USA: Greenbelt TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32370
+#EXTINF:-1,USA: House of Representatives
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32369
+#EXTINF:-1,USA: IndieWave
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32368
+#EXTINF:-1,USA: InfoWars
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32367
+#EXTINF:-1,USA: KBVR TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32366
+#EXTINF:-1,USA: Key TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32365
+#EXTINF:-1,USA: King5 News (Seattle)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32327
+#EXTINF:-1,USA: KOMO 4 News (Seattle)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32326
+#EXTINF:-1,USA: Kool TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32364
+#EXTINF:-1,USA: KRGV 5 (Weslaco)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32324
+#EXTINF:-1,USA: MLB Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32363
+#EXTINF:-1,USA: MSNBC HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32362
+#EXTINF:-1,USA: Music Choice
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32361
+#EXTINF:-1,USA: NBC 10 News (Philadelphia)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32328
+#EXTINF:-1,USA: NBC 11 News (Bay Area)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32339
+#EXTINF:-1,USA: NBC 4 News (Washington DC)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32325
+#EXTINF:-1,USA: NBC 5 News (Chicago)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32335
+#EXTINF:-1,USA: New Orleans TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32360
+#EXTINF:-1,USA: News 12 (Brooklyn)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32336
+#EXTINF:-1,USA: News 12 (Hudson Valley)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32331
+#EXTINF:-1,USA: News 12 (Long Island)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32329
+#EXTINF:-1,USA: News 12 (The Bronx)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32337
+#EXTINF:-1,USA: Newsmax TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32359
+#EXTINF:-1,USA: NFL Now
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32390
+#EXTINF:-1,USA: Orange TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32358
+#EXTINF:-1,USA: QVC
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32357
+#EXTINF:-1,USA: Radio U 88.7 Colombus
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32356
+#EXTINF:-1,USA: Rev'n (New!)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32355
+#EXTINF:-1,USA: RT America
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32354
+#EXTINF:-1,USA: Seminole TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32353
+#EXTINF:-1,USA: Southeastern Channel
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32352
+#EXTINF:-1,USA: Temple TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32351
+#EXTINF:-1,USA: The Blaze
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32350
+#EXTINF:-1,USA: The Country Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32349
+#EXTINF:-1,USA: The Weather Channel
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32348
+#EXTINF:-1,USA: TSTV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32347
+#EXTINF:-1,USA: Tuff TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32346
+#EXTINF:-1,USA: TVW
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32345
+#EXTINF:-1,USA: TVW-2
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32344
+#EXTINF:-1,USA: Voice of America
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32343
+#EXTINF:-1,USA: VTV Channel 6 Colorado
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32342
+#EXTINF:-1,USA: WBZ 4 News (Boston)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32338
+#EXTINF:-1,USA: WGN 9 News (Chicago)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32334
+#EXTINF:-1,USA: WHPR TV 33 Detroit
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32341
+#EXTINF:-1,USA: WVIT 30 News (Hartford)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32332
+#EXTINF:-1,USA: WWE
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32391
+#EXTINF:-1,USA: WWSB 7 Sarasota (ABC)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32340
+#EXTINF:-1,[USA] HBO
+http://195.154.92.15:1155/live/arris/arris/2192.ts
+#EXTINF:-1,[USA] HBO ZONE
+http://195.154.92.15:1155/live/arris/arris/2987.ts
+#EXTINF:-1,[USA] HBO COMEDY
+http://195.154.92.15:1155/live/arris/arris/2989.ts
+#EXTINF:-1,[USA] HBO SIGNATURE
+http://195.154.92.15:1155/live/arris/arris/2988.ts
+#EXTINF:-1,[USA] NBS GOLF HD
+http://195.154.92.15:1155/live/arris/arris/2196.ts
+#EXTINF:-1,[USA] CBS ACTION HD
+http://195.154.92.15:1155/live/arris/arris/2331.ts
+#EXTINF:-1,[USA] FX HD
+http://195.154.92.15:1155/live/arris/arris/2195.ts
+#EXTINF:-1,[USA] SYFY HD
+http://195.154.92.15:1155/live/arris/arris/2328.ts
+#EXTINF:-1,[USA] TBS HD
+http://195.154.92.15:1155/live/arris/arris/2994.ts
+#EXTINF:-1,[USA] ABC News
+http://195.154.92.15:1155/live/arris/arris/2997.ts
+#EXTINF:-1,[USA] Discovery Investigation ID
+http://195.154.92.15:1155/live/arris/arris/2191.ts
+#EXTINF:-1,[USA] ANIMAL PLANET HD
+http://195.154.92.15:1155/live/arris/arris/2996.ts
+#EXTINF:-1,[USA] DISCOVERY HD
+http://195.154.92.15:1155/live/arris/arris/2993.ts
+#EXTINF:-1,[USA] ABC NEWS BK
+http://195.154.92.15:1155/live/arris/arris/2990.ts
+#EXTINF:-1,[USA] DISCOVERY SCIENCE HD
+http://195.154.92.15:1155/live/arris/arris/2992.ts
+#EXTINF:-1,[USA] DISCOVERY SHED
+http://195.154.92.15:1155/live/arris/arris/2991.ts
+#EXTINF:-1,[USA] National Geographic HD
+http://195.154.92.15:1155/live/arris/arris/1765.ts
+#EXTINF:-1,[USA] A&E TV HD
+http://195.154.92.15:1155/live/arris/arris/1458.ts
+#EXTINF:-1,[USA] Food Network HD
+http://195.154.92.15:1155/live/arris/arris/1461.ts
+#EXTINF:-1,[USA] CNN HD
+http://195.154.92.15:1155/live/arris/arris/2995.ts
+#EXTINF:-1,[USA] CNBC HD
+http://195.154.92.15:1155/live/arris/arris/2330.ts
+#EXTINF:-1,[USA] WWE
+http://195.154.92.15:1155/live/arris/arris/2986.ts
+#EXTINF:-1,[USA] BOOMBERANG
+http://195.154.92.15:1155/live/arris/arris/2190.ts
+#EXTINF:-1,[CA] PBC HD
+http://195.154.92.15:1155/live/arris/arris/1452.ts
+#EXTINF:-1,[CA] EXPO TV
+http://195.154.92.15:1155/live/arris/arris/2082.ts
+#EXTINF:-1,[CA] TVO HD
+http://195.154.92.15:1155/live/arris/arris/2692.ts
+#EXTINF:-1,[CA] PARAMOUNT NETWORK
+http://195.154.92.15:1155/live/arris/arris/2690.ts
+#EXTINF:-1,[CA] FXX HD
+http://195.154.92.15:1155/live/arris/arris/2677.ts
+#EXTINF:-1,[CA] NBA TV
+http://195.154.92.15:1155/live/arris/arris/2680.ts
+#EXTINF:-1,[CA] SHOWTIME EXTRA HD
+http://195.154.92.15:1155/live/arris/arris/2673.ts
+#EXTINF:-1,CA-TSN1
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3684.ts
+#EXTINF:-1,CA-TSN2
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3683.ts
+#EXTINF:-1,CA-TSN3
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3682.ts
+#EXTINF:-1,CA-TSN4
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3681.ts
+#EXTINF:-1,CA-TSN5
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3680.ts
+#EXTINF:-1,CA-FOX EAST
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6800.ts
+#EXTINF:-1,CA-ABC WEST
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6790.ts
+#EXTINF:-1,CA-AMC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6791.ts
+#EXTINF:-1,CA-NBC WEST
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6806.ts
+#EXTINF:-1,CA-MSNBC
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6803.ts
+#EXTINF:-1,CA-Animal Planet
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6792.ts
+#EXTINF:-1,CA-HISTORY
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6801.ts
+#EXTINF:-1,CA-Sportsnet One
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6808.ts
+#EXTINF:-1,CA-Sportsnet 360
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6807.ts
+#EXTINF:-1,CA-Sportsnet World
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6810.ts
+#EXTINF:-1,CA-Sportsnet Ontario
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6809.ts
+#EXTINF:-1,[CAN] Sportsnet 360 HD
+http://k2442.com:8000/live/gg333/gg333/1957.ts
+#EXTINF:-1,[CAN] Sportsnet One HD
+http://k2442.com:8000/live/gg333/gg333/1958.ts
+#EXTINF:-1,[CAN] Sportsnet Ontario HD
+http://k2442.com:8000/live/gg333/gg333/1959.ts
+#EXTINF:-1,[CAN] Sportsnet World HD
+http://k2442.com:8000/live/gg333/gg333/1960.ts
+#EXTINF:-1,[CAN] TSN 1 HD
+http://k2442.com:8000/live/gg333/gg333/1952.ts
+#EXTINF:-1,[CAN] TSN 2 HD
+http://k2442.com:8000/live/gg333/gg333/1953.ts
+#EXTINF:-1,[CAN] TSN 3 HD
+http://k2442.com:8000/live/gg333/gg333/1954.ts
+#EXTINF:-1,[CAN] TSN 4 HD
+http://k2442.com:8000/live/gg333/gg333/1955.ts
+#EXTINF:-1,[CAN] TSN 5 HD
+http://k2442.com:8000/live/gg333/gg333/1956.ts
+#EXTINF:-1,[CAN] Treehouse
+http://k2442.com:8000/live/gg333/gg333/1092.ts
 #EXTINF:-1,Animal Planet
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1,AXS TV 
@@ -59,7 +414,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227004/index.m3u8
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1,Discovery World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
-
  #EXTINF:-1,~ USA TV ~
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
@@ -103,72 +457,19 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
 #EXTINF:-1,NBA TV
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+
 #EXTINF:-1,NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1,Cartoon Network
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Comedy Central
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:-1,FreeForm [NoKodi]
-https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
-#EXTINF:-1,Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1,NatGeo Wild [Off]
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:-1,Science Channel
-http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
-#EXTINF:-1,truTV
-http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#EXTINF:-1,Velocity
-http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
-#EXTINF:-1,Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 #EXTINF:-1,California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1,Channel 7 [NoRoku]
 http://radio.7chan.org:8000/CH7
-#EXTINF:-1,Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
 #EXTINF:-1,The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1,D23 TV
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-#EXTINF:-1,Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:-1,Evine [Off]
-http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
-#EXTINF:-1,Home Shopping Network
-http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-#EXTINF:-1,Hunt Channel
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
-#EXTINF:-1,MeTV
-http://video.metv.com/metv/index.m3u8
-#EXTINF:-1,NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 #EXTINF:-1,NASA TV Media
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
-#EXTINF:-1,SupTV
-http://91.134.238.137/live/alpha/index.m3u8
-#EXTINF:-1,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
-#EXTINF:-1,TWiT.TV
-http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
-#EXTINF:-1,Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 #EXTINF:-1,iHeart 80s
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 #EXTINF:-1,Lite FM 106.7
@@ -255,3 +556,212 @@ http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
 http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
 #EXTINF:-1,WHOH TV
 http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8 
+ #EXTM3U
+#EXTINF:-1,Ar | Bein 1 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10901.ts
+#EXTINF:-1,Ar | Bein 2 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10900.ts
+#EXTINF:-1,Ar | Bein 3 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10899.ts
+#EXTINF:-1,Ar | Bein 4 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10898.ts
+#EXTINF:-1,Ar | Bein 5 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10897.ts
+#EXTINF:-1,Ar | Bein 6 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10896.ts
+#EXTINF:-1,Ar | Bein 7 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10895.ts
+#EXTINF:-1,Ar | Bein 8 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10894.ts
+#EXTINF:-1,Ar | Bein 9 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10893.ts
+#EXTINF:-1,Ar | Bein 10 Hd
+http://redo101.com:8080/live/tekno1/tekno1/10892.ts
+#EXTINF:-1,|AR| BeIN SPORTS NEWS
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/369.ts
+#EXTINF:-1,|AR| beout Q 1 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/6263.ts
+#EXTINF:-1,|AR| beout Q 2 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/6262.ts
+#EXTINF:-1,|AR| beout Q 3 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/6259.ts
+#EXTINF:-1,|AR| beout Q 4 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/6258.ts
+#EXTINF:-1,|AR| beout Q 5 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/6257.ts
+#EXTINF:-1,|AR| beout Q 6 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/6256.ts
+#EXTINF:-1,|AR| BEIN SPORTS_1 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2600.ts
+#EXTINF:-1,|AR| BEIN SPORTS_1 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/788.ts
+#EXTINF:-1,|AR| BEIN SPORTS 1 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10081.ts
+#EXTINF:-1,|AR| BEIN SPORTS_2 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2601.ts
+#EXTINF:-1,|AR| BEIN SPORTS_2 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/789.ts
+#EXTINF:-1,|AR| BEIN SPORTS 2 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10080.ts
+#EXTINF:-1,|AR| BEIN SPORTS_3 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2602.ts
+#EXTINF:-1,|AR| BEIN SPORTS_3 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/790.ts
+#EXTINF:-1,|AR| BEIN SPORTS 3 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10079.ts
+#EXTINF:-1,|AR| BEIN SPORTS_4 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2603.ts
+#EXTINF:-1,|AR| BEIN SPORTS_4 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/791.ts
+#EXTINF:-1,|AR| BEIN SPORTS 4 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10078.ts
+#EXTINF:-1,|AR| BEIN SPORTS_5 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2604.ts
+#EXTINF:-1,|AR| BEIN SPORTS_5 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/792.ts
+#EXTINF:-1,|AR| BEIN SPORTS 5 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10077.ts
+#EXTINF:-1,|AR| BEIN SPORTS_6 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2605.ts
+#EXTINF:-1,|AR| BEIN SPORTS_6 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/793.ts
+#EXTINF:-1,|AR| BEIN SPORTS 6 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10076.ts
+#EXTINF:-1,|AR| BEIN SPORTS_7 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2606.ts
+#EXTINF:-1,|AR| BEIN SPORTS_7 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/794.ts
+#EXTINF:-1,|AR| BEIN SPORTS 7 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10075.ts
+#EXTINF:-1,|AR| BEIN SPORTS_8 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2607.ts
+#EXTINF:-1,|AR| BEIN SPORTS_8 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/795.ts
+#EXTINF:-1,|AR| BEIN SPORTS 8 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10074.ts
+#EXTINF:-1,|AR| BEIN SPORTS_9 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2608.ts
+#EXTINF:-1,|AR| BEIN SPORTS_9 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/796.ts
+#EXTINF:-1,|AR| BEIN SPORTS 9 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10073.ts
+#EXTINF:-1,|AR| BEIN SPORTS_10 SD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2609.ts
+#EXTINF:-1,|AR| BEIN SPORTS_10 HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/797.ts
+#EXTINF:-1,|AR| BEIN SPORTS 10 FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/10072.ts
+#EXTINF:-1,|AR| BEIN SPORTS FHD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/1454.ts
+#EXTINF:-1,AR: BeinSport 2 HD
+http://151.80.101.37:4587/live/zYzbbmrpXq/TgVS6vpJiE/2237.ts
+#EXTINF:-1,AR: BeinSport-3 HD
+http://151.80.101.37:4587/live/zYzbbmrpXq/TgVS6vpJiE/2240.ts
+#EXTINF:-1,AR: BeinSport-4 HD
+http://151.80.101.37:4587/live/zYzbbmrpXq/TgVS6vpJiE/2241.ts
+#EXTINF:-1,AR: BeinSport-5 HD
+http://151.80.101.37:4587/live/zYzbbmrpXq/TgVS6vpJiE/2242.ts
+#EXTINF:-1,AR: BeinSport-6 HD
+http://151.80.101.37:4587/live/zYzbbmrpXq/TgVS6vpJiE/2243.ts
+#EXTINF:-1,AR: BeinSport 8 HD
+http://151.80.101.37:4587/live/zYzbbmrpXq/TgVS6vpJiE/4989.ts
+#EXTINF:-1,BN Sports 1 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/89714.ts
+#EXTINF:-1,BN Sports 1 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15018.ts
+#EXTINF:-1,BN Sports 2 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/625249.ts
+#EXTINF:-1,BN Sports 2 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15017.ts
+#EXTINF:-1,BN Sports 3
+http://uk.msnpanel.pw:8080/live/jak/jak1234/53163.ts
+#EXTINF:-1,BN Sports 3 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/53269.ts
+#EXTINF:-1,BN Sports 3 FHD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/53268.ts
+#EXTINF:-1,BN Sports 4 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/8968.ts
+#EXTINF:-1,BN Sports 4 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15015.ts
+#EXTINF:-1,BN Sports 5 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/625248.ts
+#EXTINF:-1,BN Sports 5 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/625257.ts
+#EXTINF:-1,BN Sports 6 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/89665.ts
+#EXTINF:-1,BN Sports 6 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15013.ts
+#EXTINF:-1,BN Sports 7 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/8965.ts
+#EXTINF:-1,BN Sports 7 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15012.ts
+#EXTINF:-1,BN Sports 8 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/8964.ts
+#EXTINF:-1,BN Sports 8 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15011.ts
+#EXTINF:-1,BN Sports 9 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/8963.ts
+#EXTINF:-1,BN Sports 9 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15010.ts
+#EXTINF:-1,BN Sports 10 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/8962.ts
+#EXTINF:-1,BN Sports 10 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15009.ts
+#EXTINF:-1,BN Sports 11 AR
+http://uk.msnpanel.pw:8080/live/jak/jak1234/8961.ts
+#EXTINF:-1,BN Sports 11 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15008.ts
+#EXTINF:-1,BN Sports 12 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/15007.ts
+#EXTINF:-1,BN Sports 12 HD
+http://uk.msnpanel.pw:8080/live/jak/jak1234/8830.ts
+#EXTINF:-1,TR: BN Sports 1
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/451.ts
+#EXTINF:-1,AR: BN SPorts
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/486.ts
+#EXTINF:-1,AR: BN Sports 1 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/485.ts
+#EXTINF:-1,AR: BN Sports 2 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/476.ts
+#EXTINF:-1,AR: BN Sports 3 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/475.ts
+#EXTINF:-1,AR: BN Sports 4 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/474.ts
+#EXTINF:-1,AR: BN Sports 5 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/473.ts
+#EXTINF:-1,AR: BN Sports 6 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/472.ts
+#EXTINF:-1,AR: BN Sports 7 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/471.ts
+#EXTINF:-1,AR: BN Sports 8 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/470.ts
+#EXTINF:-1,AR: BN Sports 9 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/469.ts
+#EXTINF:-1,AR: BN Sports 10 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/484.ts
+#EXTINF:-1,AR: BN Sports 11 HD
+http://54.36.61.6:8000/live/BN1810/Busjsu_j/483.ts
+#EXTINF:-1,BN SPORT 1 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/5816.ts
+#EXTINF:-1,BN SPORT 2 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/5817.ts
+#EXTINF:-1,BN SPORT 3 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/5818.ts
+#EXTINF:-1,BN SPORT 4 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/6027.ts
+#EXTINF:-1,BN SPORT 5 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/6028.ts
+#EXTINF:-1,BN SPORT 6 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/6029.ts
+#EXTINF:-1,BN SPORT 7 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/6030.ts
+#EXTINF:-1,BN SPORT 8 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/6031.ts
+#EXTINF:-1,BN SPORT 9 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/6032.ts
+#EXTINF:-1,BN SPORT 10 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/6033.ts
+#EXTINF:-1,BN SPORT 11 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/5708.ts
+#EXTINF:-1,BN SPORT 12 HD
+http://194.88.104.208:8000/live/YAvOUfIhEk/MSnehwXoTk/5282.ts
