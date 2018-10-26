@@ -1,321 +1,61 @@
- #EXTM3U
-#EXTINF:-1,US: 360 North
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3654.ts
-#EXTINF:-1,US: ABC News HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3473.ts
-#EXTINF:-1,US: AFN PULSE
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4145.ts
-#EXTINF:-1,US: AFN SPORTS
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4143.ts
-#EXTINF:-1,US: AFN SPORTS 2
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4142.ts
-#EXTINF:-1,US: Amazing Facts TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3647.ts
-#EXTINF:-1,US: AMC HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/7645.ts
-#EXTINF:-1,US: AMG TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3601.ts
-#EXTINF:-1,US: Animal Planet
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4529.ts
-#EXTINF:-1,US: Bein Sports USA HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3671.ts
-#EXTINF:-1,US: Beto TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3659.ts
-#EXTINF:-1,US: Bloomberg
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2833.ts
-#EXTINF:-1,US: Boston City TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3653.ts
-#EXTINF:-1,US: Bravo HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3664.ts
-#EXTINF:-1,US: BYU Sports TV HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3630.ts
-#EXTINF:-1,US: C-Span1
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3602.ts
-#EXTINF:-1,US: CBS HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8595.ts
-#EXTINF:-1,US: CBS News HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2827.ts
-#EXTINF:-1,US: CBSN HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5349.ts
-#EXTINF:-1,US: CNBC
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2624.ts
-#EXTINF:-1,US: CNBS HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5339.ts
-#EXTINF:-1,US: CNN HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3159.ts
-#EXTINF:-1,US: Comedy Central HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3660.ts
-#EXTINF:-1,US: Cpac
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3632.ts
-#EXTINF:-1,US: E!
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3663.ts
-#EXTINF:-1,US: ESPN HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3532.ts
-#EXTINF:-1,US: Fight Network
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5313.ts
-#EXTINF:-1,US: Food Network
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5312.ts
-#EXTINF:-1,US: Fox 59 News
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3651.ts
-#EXTINF:-1,US: Fox HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5879.ts
-#EXTINF:-1,US: Fox Sports 506 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3152.ts
-#EXTINF:-1,US: FX HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3662.ts
-#EXTINF:-1,US: Global TV BC
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5328.ts
-#EXTINF:-1,US: Global TV Halifax
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5327.ts
-#EXTINF:-1,US: Global TV Toronto
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5326.ts
-#EXTINF:-1,US: H2
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5325.ts
-#EXTINF:-1,US: Hallmark
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5324.ts
-#EXTINF:-1,US: HBO Comedy
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5321.ts
-#EXTINF:-1,US: HBO Family
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5322.ts
-#EXTINF:-1,US: HBO HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5323.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5320.ts
-#EXTINF:-1,US: HBO ZONE
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5319.ts
-#EXTINF:-1,US: HGTV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5318.ts
-#EXTINF:-1,US: HIFI
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4564.ts
-#EXTINF:-1,US: HSN 1
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3526.ts
-#EXTINF:-1,US: HSN 2
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3527.ts
-#EXTINF:-1,US: KTVU News
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3631.ts
-#EXTINF:-1,US: LIFETIME HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5316.ts
-#EXTINF:-1,US: Max West
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5336.ts
-#EXTINF:-1,US: Mello TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3945.ts
-#EXTINF:-1,US: Miami TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3529.ts
-#EXTINF:-1,US: Motor Sports 7 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3153.ts
-#EXTINF:-1,US: Mute TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3628.ts
-#EXTINF:-1,US: Nasa TV HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2830.ts
-#EXTINF:-1,US: NBA HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5855.ts
-#EXTINF:-1,US: NBC Golf HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3542.ts
-#EXTINF:-1,US: NBC HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3174.ts
-#EXTINF:-1,US: News 12
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5348.ts
-#EXTINF:-1,US: Nickelodeon HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5331.ts
-#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5330.ts
-#EXTINF:-1,US: PAG HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5329.ts
-#EXTINF:-1,US: PBS HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3603.ts
-#EXTINF:-1,US: Pocker Central
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4634.ts
-#EXTINF:-1,US: Redbull TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3605.ts
-#EXTINF:-1,US: RT America HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3644.ts
-#EXTINF:-1,US: RT Documentary
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2836.ts
-#EXTINF:-1,US: Showtime 2
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/10733.ts
-#EXTINF:-1,US: Showtime HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3533.ts
-#EXTINF:-1,US: Showtime West
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5337.ts
-#EXTINF:-1,US: Sony Movie Channel HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3604.ts
-#EXTINF:-1,US: Sports Night
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5314.ts
-#EXTINF:-1,US: TBS HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5333.ts
-#EXTINF:-1,US: Tech Channel
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3745.ts
-#EXTINF:-1,US: Ten Cricket
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5353.ts
-#EXTINF:-1,US: The Florida Channel
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3530.ts
-#EXTINF:-1,US: TLC
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4530.ts
-#EXTINF:-1,US: TNT HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5352.ts
-#EXTINF:-1,US: Toonami Aftermath
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3661.ts
-#EXTINF:-1,US: TSC
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3528.ts
-#EXTINF:-1,US: TV Land
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9585.ts
-#EXTINF:-1,US: UC TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3652.ts
-#EXTINF:-1,US: USA Network
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5309.ts
-#EXTINF:-1,US: Versus NBA HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2834.ts
-#EXTINF:-1,US: WE TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/11045.ts
-#EXTINF:-1,US: Weather Channel
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2883.ts
-#EXTINF:-1,US: WGN News Chicago
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3600.ts
-#EXTINF:-1,US: Willow Cricket HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5308.ts
-#EXTINF:-1,US: World Fashion HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3592.ts
-#EXTINF:-1,US: WXYZ TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3636.ts
-#EXTINF:-1,UK - ITV 1 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19255.ts
-#EXTINF:-1,UK - ITV 2 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19254.ts
-#EXTINF:-1,UK - ITV 3 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19253.ts
-#EXTINF:-1,UK - ITV 4 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19252.ts
-#EXTINF:-1,UK - More 4
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19246.ts
-#EXTINF:-1,UK - E4
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19281.ts
-#EXTINF:-1,UK - Channel 4 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19308.ts
-#EXTINF:-1,UK - Channel 5 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19307.ts
-#EXTINF:-1,UK - RTE One
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19215.ts
-#EXTINF:-1,UK - RTE Two
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19214.ts
-#EXTINF:-1,UK - BBC 1 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19342.ts
-#EXTINF:-1,UK - BBC 2 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19341.ts
-#EXTINF:-1,UK - BBC 3 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19340.ts
-#EXTINF:-1,UK - BBC 4 HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19339.ts
-#EXTINF:-1,UK - BBC Entertainment
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19338.ts
-#EXTINF:-1,UK - BBC News HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19337.ts
-#EXTINF:-1,UK - BBC NI
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19336.ts
-#EXTINF:-1,UK - BBC North West
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19335.ts
-#EXTINF:-1,UK - BBC One Wales
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19334.ts
-#EXTINF:-1,UK - BBC Parlament
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19333.ts
-#EXTINF:-1,UK - BBC Scotland
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19332.ts
-#EXTINF:-1,UK - BBC World News
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19331.ts
-#EXTINF:-1,UK - 4 Seven HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19351.ts
-#EXTINF:-1,UK - 5 Star
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19350.ts
-#EXTINF:-1,UK - 5 USA
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19349.ts
-#EXTINF:-1,UK - C ITV
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19316.ts
-#EXTINF:-1,UK - ESPN
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19277.ts
-#EXTINF:-1,UK - ESPN 2
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19276.ts
-#EXTINF:-1,UK - Home
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19259.ts
-#EXTINF:-1,UK - ITV Be
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19251.ts
-#EXTINF:-1,UK - ITV Encore
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19250.ts
-#EXTINF:-1,UK - PPV Channel 1
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19223.ts
-#EXTINF:-1,UK - Setanta Asia
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19212.ts
-#EXTINF:-1,UK - Sky Modern Great
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19378.ts
-#EXTINF:-1,UK - Spike UK
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19202.ts
-#EXTINF:-1,UK - STV HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19201.ts
-#EXTINF:-1,UK - TV3 IE
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19189.ts
-#EXTINF:-1,UK - UTV IE
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19187.ts
-#EXTINF:-1,UK - Watch
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19181.ts
-#EXTINF:-1,UK - Your TV
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19178.ts
-#EXTINF:-1,UK - MTV
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19242.ts
-#EXTINF:-1,UK - MTV AM HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19241.ts
-#EXTINF:-1,UK - MTV Base HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19240.ts
-#EXTINF:-1,UK - MTV Classic
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19239.ts
-#EXTINF:-1,UK - MTV Dance HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19238.ts
-#EXTINF:-1,UK - MTV Hits
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19237.ts
-#EXTINF:-1,UK - MTV Live HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19236.ts
-#EXTINF:-1,UK - MTV Music
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19235.ts
-#EXTINF:-1,UK - MTV Rocks
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19234.ts
-#EXTINF:-1,UK - VH1
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19186.ts
-#EXTINF:-1,UK - 4 Music
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19352.ts
-#EXTINF:-1,UK - Capital TV
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19315.ts
-#EXTINF:-1,UK - Chart Show TV
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19306.ts
-#EXTINF:-1,UK - Heart TV
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19261.ts
-#EXTINF:-1,UK - Kerrang!
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19249.ts
-#EXTINF:-1,UK - Now 80's
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19226.ts
-#EXTINF:-1,UK - VIVA Music
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19183.ts
-#EXTINF:-1,UK - VIVA the Hits!
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19182.ts
-#EXTINF:-1,UK - Boomerang
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19329.ts
-#EXTINF:-1,UK - Boomerang   1
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19328.ts
-#EXTINF:-1,UK - Cartoonito
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19313.ts
-#EXTINF:-1,UK - Cheebies HD
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19305.ts
-#EXTINF:-1,UK - Nickelodeon
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19228.ts
-#EXTINF:-1,UK - NickToons
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19227.ts
-#EXTINF:-1,UK - Nick Jr
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19230.ts
-#EXTINF:-1,UK - Nick Jr Too
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19229.ts
-#EXTINF:-1,UK - Baby Tv
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19343.ts
-#EXTINF:-1,UK - POP
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19224.ts
-#EXTINF:-1,UK - Tinypop
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19197.ts
-#EXTINF:-1,UK - Tinypop  1
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19196.ts
-#EXTINF:-1,UK - RTEjr
-http://185.71.66.36:80/live/ighonet/ClKCOKXlsj/19213.ts
+#EXTM3U
+
+#EXTINF:-1,Sky Animation
+http://185.95.109.145:8000/play/9zrx
+#EXTINF:-1,Sky Witness
+http://185.95.109.145:8000/play/9zsc
+#EXTINF:-1,Sky Drama
+http://185.95.109.145:8000/play/9zrw
+#EXTINF:-1,Sky Superhero
+http://185.95.109.145:8000/play/9zs1
+#EXTINF:-1,Sky Thriller
+http://185.95.109.145:8000/play/9zs0
+#EXTINF:-1,Halloween
+http://185.95.109.145:8000/play/9zrz
+#EXTINF:-1,Sky Action
+http://185.95.109.145:8000/play/9zrt
+#EXTINF:-1,Sky Sports PL
+http://185.95.109.145:8000/play/9zse
+#EXTINF:-1,Sky Comedy
+http://185.95.109.145:8000/play/9zrv
+#EXTINF:-1,Sky Select
+http://185.95.109.145:8000/play/9zry
+#EXTINF:-1,Sky Disney
+http://185.95.109.145:8000/play/9zru
+#EXTINF:-1,Sky Premiere
+http://185.95.109.145:8000/play/9zs2
+
+#EXTINF:-1,Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,AXS TV 
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1,Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1,CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1,Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1,Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1,Fox Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1,Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/index.m3u8
+#EXTINF:-1,Animal Planet
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,Discovery World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
